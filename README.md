@@ -9,3 +9,10 @@ This script is mainly helpful to get historical information regarding flat price
 * Step 5: repeat from step 3.
 
 
+Test out:
+
+```
+python3 check_my_apt.py data/92024_0000U.csv
+```
+
+
