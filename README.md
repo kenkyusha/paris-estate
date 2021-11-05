@@ -15,4 +15,7 @@ Test out:
 python3 check_my_apt.py data/92024_0000U.csv
 ```
 
+## Useful links:
+* https://www.locservice.fr/tensiometre - rent indication
+* https://www.meilleursagents.com/prix-immobilier - compare price per m2 also the rent per m2
 
